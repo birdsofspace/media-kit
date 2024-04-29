@@ -1,0 +1,3 @@
+LOGO_FONT=Agnostic
+HEADING_FONT=Raleway, Cabin-Bold
+BODY_FONT=DM Sans, Cabin-Bold
